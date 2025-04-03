@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+    
+}
+.logout{
+   background-image: url(./photo-1704204656144-3dd12c110dd8.avif);
+   height:800px;
+   background-size: cover;
+   
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.log{
+    color: white;
+    display: flex;
+    justify-content: center;
+  
+   
+}   
